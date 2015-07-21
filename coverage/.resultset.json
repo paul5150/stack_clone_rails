@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/Guest/Desktop/stack_overflow/spec/models/account_spec.rb": [
+      "/Users/Guest/Desktop/stack_overflow/spec/models/question_spec.rb": [
         1,
         null,
         1,
@@ -236,57 +236,13 @@
       ],
       "/Users/Guest/Desktop/stack_overflow/config/routes.rb": [
         1,
+        1,
+        1,
+        1,
         null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
+        1,
+        1,
+        1,
         null,
         null,
         null,
@@ -296,13 +252,13 @@
         1,
         null
       ],
-      "/Users/Guest/Desktop/stack_overflow/app/models/account.rb": [
+      "/Users/Guest/Desktop/stack_overflow/app/models/question.rb": [
         1,
         1,
         1,
         null
       ]
     },
-    "timestamp": 1437499038
+    "timestamp": 1437519728
   }
 }

@@ -4,7 +4,7 @@ class CreateAccounts < ActiveRecord::Migration
       t.column :question, :string
       t.column :answer, :string
 
-      t.timestamps 
+      t.timestamps
     end
   end
 end

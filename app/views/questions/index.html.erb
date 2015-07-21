@@ -1,0 +1,14 @@
+<h1>Welcome to our Stack Overflow rip-off clone</h1>
+
+<p>If you like their web site, you'll be annoyed with ours.<p>
+
+
+  <h1>Questions</h1>
+
+  <ul>
+    <% @questions.each do |question| %>
+    <li><%= link_to question.description, question_path(question) %></li>
+    <% end %>
+  </ul>
+
+  <p><%= link_to "Create a new question", new_question_path %></p>
